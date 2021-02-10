@@ -1,4 +1,5 @@
 ﻿using System;
+using DigiBank.Classes;
 
 namespace DigiBank
 {
@@ -6,7 +7,7 @@ namespace DigiBank
     {
         static void Main(string[] args)
         {
-            
+            Layout.TelaPrincipal();
         }
     }
 }
